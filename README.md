@@ -219,7 +219,7 @@ yet), LangSmith tracing, multi-database support, scheduled reports.
 Each is a reasonably contained addition on top of this graph if you
 want to extend it.
 
-## Talking about this project (interview-style summary)
+## Project summary
 
 This is an agentic AI analytics assistant that converts natural
 language into validated PostgreSQL, executes it under a read-only
