@@ -1,0 +1,77 @@
+You can test these questions with your AI Data Analyst project.
+
+Simple questions
+
+How many customers are there?
+
+How many orders are there?
+
+How many products are available?
+
+How many categories are there?
+
+What is the total revenue?
+
+What is the average order value?
+
+What is the maximum order amount?
+
+What is the minimum order amount?
+
+Customer-related questions
+
+How many customers placed at least one order?
+
+Which customers spent the most?
+
+What is the average revenue per customer?
+
+How many new customers joined in 2025?
+
+Which customer generated the highest revenue?
+
+Order and revenue questions
+
+What was the total revenue in 2025?
+
+What was the total revenue in January 2025?
+
+Which month generated the highest revenue?
+
+Which month had the lowest revenue?
+
+Which month had the biggest decline?
+
+What is the average number of orders per month?
+
+How many completed orders are there?
+
+How many cancelled orders are there?
+
+Product and category questions
+
+Which product generated the most revenue?
+
+Which category generated the highest revenue?
+
+Which products had the highest sales quantity?
+
+What are the top five best-selling products?
+
+Which category has the most products?
+
+What is the average product price by category?
+
+Questions that may require Gemini analysis
+
+These will probably call Gemini for deeper reasoning:
+
+Why did revenue decline in January 2025?
+
+What caused the decrease in Electronics sales?
+
+Explain the trend in monthly revenue.
+
+Which category should the business focus on and why?
+
+Identify unusual patterns in the sales data.
